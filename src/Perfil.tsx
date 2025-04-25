@@ -8,7 +8,7 @@ const Perfil: React.FC = () => {
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsn1XW4Xack2WtB0i4cCyJYIXFsLAKPUZMpsMw8dk74EcYaxR57jbVIXeQA-7tBlWnGjs&usqp=CAU"
             alt="Foto de perfil"
-            className="rounded-full w-32 h-32 object-cover border-4 border-gray-300 dark:border-gray-700"
+            className="rounded-full w-32 h-32 object-cover border-4 border-gray-300 dark:border-red-500"
           />
         </div>
         <h1 className="text-2xl md:text-3xl font-bold text-center">El toque</h1>
